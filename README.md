@@ -46,9 +46,9 @@ $$dX_i = \sum_j A_{ij} X_j dt + B_i X_i d\psi_i$$
 
 where:
 $$A_{ij} = A^0_{ij}J_0 + \delta_{ij} (m-J_0\sum_k A^0_{ki} -\phi)  \mbox{ for } i,j=0,N-1$$   
-$$A_{iN}=f/N, i<N$$ 
-$$A_{Ni}=\phi, i<N$$
+$$A_{iN}=f/N, i \lt N$$ 
+$$A_{Ni}=\phi, i\lt N$$
 $$A_{NN}=(\mu-f)$$
-$$B_i = s,  i<N$$
+$$B_i = s,  i \lt N$$
 $$B_i=\sigma, i=N$$
 $$d\psi_i$$ are independent Wiener processes (with variance 1 and zero mean)
