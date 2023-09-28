@@ -7,7 +7,7 @@ The model proposed by JPB&MM (Bouchaud, J. P., & Mézard, M. (2000). Wealth cond
 ### Model
 
 In the continuum version of the model, we consider a random interaction network schematized by an adjaciency matrix $$A^0_{ij}=A^0_{ji}$$.
-The random network is constructed assigning a probality $$p=c/N$$ for a link to be present.
+The random network is a regular random graph of degree $c$ but other choices are possible.
 
 he equations of the model are the following for individuals:
 
@@ -24,7 +24,7 @@ $$\eta_i(t)$$ (eta[i]) Gaussian random noise with mean m and variance s.
 
 The equation for the state is
 
-dV.dt =  sigma  xi(t)  V + phi W + (mu-f)V
+$$dV/dt =  \sigma  \xi(t)  V + \phi W + (\mu-f)V$$
 
 where:
 - W is the total wealth
