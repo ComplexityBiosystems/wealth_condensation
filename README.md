@@ -9,13 +9,19 @@ C. A. M. La Porta and S. Zapperi,
 Unraveling the dynamics of wealth inequality and the impact on social mobility and health disparities
 J. Phys. Complexity 2023
 
-#### Dependencies
+### Dependencies
 numpy 
+
 scipy
+
 pandas 
+
 matplotlib
+
 seaborn
+
 networkx https://pypi.org/project/networkx/
+
 sdeint https://pypi.org/project/sdeint/
 
 
