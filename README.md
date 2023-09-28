@@ -6,9 +6,7 @@ Python module to study simple agent based models of wealth condensation.
 The model was used to obtain the results in:
 
 C. A. M. La Porta and S. Zapperi, 
-
 Unraveling the dynamics of wealth inequality and the impact on social mobility and health disparities
-
 J. Phys. Complexity 2023
 
 ### Model
